@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Gg Sans';
+    src: local('Gg Sans Semibold'), local('Gg-Sans-Semibold'),
+        url('ggsans-Semibold.woff2') format('woff2'),
+        url('ggsans-Semibold.woff') format('woff'),
+        url('ggsans-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: Ginto;
+    font-weight: 700;
+    src: url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/Ginto-Nord/Ginto-Nord-700.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/ROMVoid95/DiscordFonts@master/Ginto-Nord/Ginto-Nord-700.woff) format("woff")
+  }
